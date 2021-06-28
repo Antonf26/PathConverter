@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=00f6d0b8_002D254e_002D49d4_002Da520_002D960e651dff1e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ConvertsSimplePathWithSpace" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::18D8BE4B-C184-4401-8941-B5DE93A519CE::net5.0::ConverterTests.Tests.ConvertsSimplePathWithSpace&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::18D8BE4B-C184-4401-8941-B5DE93A519CE::net5.0::ConverterTests.Tests.ConvertsArrayExample&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::18D8BE4B-C184-4401-8941-B5DE93A519CE::net5.0::ConverterTests.Tests.ConvertsNestedExample&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::18D8BE4B-C184-4401-8941-B5DE93A519CE::net5.0::ConverterTests.Tests.ConvertsExamples&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
