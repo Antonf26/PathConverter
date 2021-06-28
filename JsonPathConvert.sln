@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonPathConvert", "JsonPathConvert.csproj", "{82E18A6E-C56D-4D8E-BB9E-6CBBE3F261D7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConverterTests", "ConverterTests\ConverterTests.csproj", "{CCAEF769-35FB-42FD-B089-63EB116BA177}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonPathConvert.Tests", "..\JsonPathConvert.Tests\JsonPathConvert.Tests.csproj", "{B23771CA-E1AA-44A5-B6F1-E5BA03513D06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{82E18A6E-C56D-4D8E-BB9E-6CBBE3F261D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82E18A6E-C56D-4D8E-BB9E-6CBBE3F261D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82E18A6E-C56D-4D8E-BB9E-6CBBE3F261D7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CCAEF769-35FB-42FD-B089-63EB116BA177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCAEF769-35FB-42FD-B089-63EB116BA177}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCAEF769-35FB-42FD-B089-63EB116BA177}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCAEF769-35FB-42FD-B089-63EB116BA177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23771CA-E1AA-44A5-B6F1-E5BA03513D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23771CA-E1AA-44A5-B6F1-E5BA03513D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23771CA-E1AA-44A5-B6F1-E5BA03513D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23771CA-E1AA-44A5-B6F1-E5BA03513D06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,7 +7,7 @@ namespace JsonPathConvert
     {
         public static string Convert(string input)
         {
-            var replace = Regex.Replace(input, @"\.(\w+ \w+)($|\[|\.| )", ".['$1']$2");
+            var replace = Regex.Replace(input, @"\.(\w+\s\w+)($|\[|\.| )", ".['$1']$2");
             return replace;
         }
     }
